@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6c0118/v1
+canonical_location: https://kanripo.org/bkk/KR6c0118/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛頂瑜伽理趣般若經
+  identifiers:
+    alt_id:
+    - T08n0241
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T08/T08n0241.xml
+    old_id: T08n0241
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0118_000.yaml, hash: 'sha256:cd4da7f2ee8e3fdcacfb17f0394fa2ae15ad69407869a78b6b690ef61d08c18b'}
+  - {seq: 1, filename: KR6c0118_001.yaml, hash: 'sha256:8d0025afeec899764d9766700c71fd01f13838bed5dce64ce5a578016d93acc8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6c0118_001.markers.yaml, hash: 'sha256:5c874a4dc7f4cd501fcc43ca3aad97f177fc0e229a378ed8fb2c52cf1da899c1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6c0118_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4080
+  label: 金剛頂瑜伽理趣般若經
+  type: juan
+  level: 1
+hash: sha256:9977be2ee0fd61b7e529970f8c5f87c6c29e30b862ce3134e1f1a1895a9d0772
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T
