@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6c0118_000.yaml, hash: 'sha256:cd4da7f2ee8e3fdcacfb17f0394fa2ae15ad69407869a78b6b690ef61d08c18b'}
-  - {seq: 1, filename: KR6c0118_001.yaml, hash: 'sha256:8d0025afeec899764d9766700c71fd01f13838bed5dce64ce5a578016d93acc8'}
+  - {seq: 1, filename: KR6c0118_001.yaml, hash: 'sha256:484f5b9719004a2d7dabb470508ca4cc8c11e1b2f206aabdc43b7493266c7a59'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6c0118_001.markers.yaml, hash: 'sha256:5c874a4dc7f4cd501fcc43ca3aad97f177fc0e229a378ed8fb2c52cf1da899c1'}
+  - {seq: 0, role: markers, filename: assets/KR6c0118_000.markers.yaml, hash: 'sha256:4dbb39a693ac45b4a6a9fe5ffbe8b6fc3327f8625cb06ef031a5ae0355e7fa18'}
+  - {seq: 1, role: markers, filename: assets/KR6c0118_001.markers.yaml, hash: 'sha256:f9ca33a5257444c7869b5b8f1e1e98ce0e2e9045c259c2620a8f164d967d25a0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 金剛頂瑜伽理趣般若經
   type: juan
   level: 1
-hash: sha256:9977be2ee0fd61b7e529970f8c5f87c6c29e30b862ce3134e1f1a1895a9d0772
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0f9daa4ea640222d7a4a46e2447a7e0a5ea26a74cbd4499580e07df9e16b4c84
 editions:
 - short: T
