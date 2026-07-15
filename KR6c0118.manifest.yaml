@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6c0118/v1
 canonical_location: https://kanripo.org/bkk/KR6c0118/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛頂瑜伽理趣般若經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6c0118_000.yaml, hash: 'sha256:cd4da7f2ee8e3fdcacfb17f0394fa2ae15ad69407869a78b6b690ef61d08c18b'}
-  - {seq: 1, filename: KR6c0118_001.yaml, hash: 'sha256:484f5b9719004a2d7dabb470508ca4cc8c11e1b2f206aabdc43b7493266c7a59'}
+  - {seq: 1, filename: KR6c0118_001.yaml, hash: 'sha256:9abe0e6f7a11294ce0b786331c9de4eedef37cbc7e68fa19a6070236bdb9faa6'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6c0118_000.markers.yaml, hash: 'sha256:4dbb39a693ac45b4a6a9fe5ffbe8b6fc3327f8625cb06ef031a5ae0355e7fa18'}
-  - {seq: 1, role: markers, filename: assets/KR6c0118_001.markers.yaml, hash: 'sha256:f9ca33a5257444c7869b5b8f1e1e98ce0e2e9045c259c2620a8f164d967d25a0'}
+  - {seq: 1, role: markers, filename: assets/KR6c0118_001.markers.yaml, hash: 'sha256:41f1e88fe77364be8f7d35257110cc3a2e075dddcff304871200a97c154de216'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 金剛頂瑜伽理趣般若經
   type: juan
   level: 1
-hash: sha256:0f9daa4ea640222d7a4a46e2447a7e0a5ea26a74cbd4499580e07df9e16b4c84
+hash: sha256:b5d7a37e115231f1a6ffc208f1d3eb483e76bd764d24911adaa2411d927d10fd
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
