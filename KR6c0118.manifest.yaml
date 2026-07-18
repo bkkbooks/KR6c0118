@@ -19,7 +19,7 @@ assets:
   - {seq: 0, filename: KR6c0118_000.yaml, hash: 'sha256:cd4da7f2ee8e3fdcacfb17f0394fa2ae15ad69407869a78b6b690ef61d08c18b'}
   - {seq: 1, filename: KR6c0118_001.yaml, hash: 'sha256:9abe0e6f7a11294ce0b786331c9de4eedef37cbc7e68fa19a6070236bdb9faa6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0118_000.markers.yaml, hash: 'sha256:4dbb39a693ac45b4a6a9fe5ffbe8b6fc3327f8625cb06ef031a5ae0355e7fa18'}
+  - {seq: 0, role: markers, filename: assets/KR6c0118_000.markers.yaml, hash: 'sha256:6025b9ac2a6abcfeb493ff0bafab578dc0d3eb9a763ab67f703985faf6b80e3a'}
   - {seq: 1, role: markers, filename: assets/KR6c0118_001.markers.yaml, hash: 'sha256:41f1e88fe77364be8f7d35257110cc3a2e075dddcff304871200a97c154de216'}
 table_of_contents:
 - ref:
@@ -32,7 +32,7 @@ table_of_contents:
   label: 金剛頂瑜伽理趣般若經
   type: juan
   level: 1
-hash: sha256:b5d7a37e115231f1a6ffc208f1d3eb483e76bd764d24911adaa2411d927d10fd
+hash: sha256:136b0aa0c2dbd2324f0ab5d9cfa1d027c9354f959e6570dd06a6f5a3a4f0b255
 editions:
 - short: T
 mappings:
